@@ -1,4 +1,4 @@
-# neumonia
+# Herramienta para la detección rápida de neumonía por Gerardo Angulo Cuentas
 Deep Learning aplicado en el procesamiento de imágenes radiográficas de tórax en formato DICOM con el fin de clasificarlas en 3 categorías diferentes:
 
 Neumonía Bacteriana
